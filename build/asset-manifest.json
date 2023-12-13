@@ -12,7 +12,7 @@
     "main.8930b3f3.js.map": "/dvddataset/static/js/main.8930b3f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c23e2c9c.css",
-    "static/js/main.8930b3f3.js"
+    "dvddataset/static/css/main.c23e2c9c.css",
+    "dvddataset/static/js/main.8930b3f3.js"
   ]
 }
