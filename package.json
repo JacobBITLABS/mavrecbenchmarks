@@ -1,0 +1,43 @@
+{
+  "name": "finbest-finance-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "apexcharts": "^3.44.0",
+    "dangerous-html": "0.1.13",
+    "prop-types": "15.7.2",
+    "react": "^17.0.2",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^2.12.0"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test --env=jsdom",
+    "eject": "craco eject"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}
