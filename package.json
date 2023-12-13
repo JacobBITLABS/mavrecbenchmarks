@@ -2,7 +2,7 @@
   "name": "Dual-Drone View Dataset - DVD",
   "version": "1.0.0",
   "homepage": "https://jacobbitlabs.github.io/dvddataset",
-  "private": true,
+  "private": false,
   "dependencies": {
     "apexcharts": "^3.44.0",
     "dangerous-html": "0.1.13",
