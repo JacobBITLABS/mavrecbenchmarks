@@ -745,7 +745,7 @@
   flex-direction: row;
   background-size: cover;
   justify-content: center;
-  background-image: url("/group%201281.svg");
+  background-image: url("");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -761,7 +761,7 @@
   flex-direction: row;
   background-size: cover;
   justify-content: center;
-  background-image: url("/pastedimage-v31-900h.png");
+  background-image: url("");
 }
 .home-content05 {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -1305,7 +1305,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: space-between;
-  background-image: url("/planbackground.svg");
+  background-image: url("");
 }
 .home-header4 {
   gap: var(--dl-space-space-twounits);
@@ -1739,7 +1739,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: space-between;
-  background-image: url("/planbackground.svg");
+  background-image: url("");
 }
 .home-header5 {
   gap: var(--dl-space-space-twounits);
