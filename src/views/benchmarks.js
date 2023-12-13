@@ -9,9 +9,9 @@ const Benchmarks = (props) => {
   return (
     <div className="benchmarks-container">
       <Helmet>
-        <title>benchmarks - Finbest</title>
+        <title>benchmarks</title>
         <meta name="description" content="Description of the website" />
-        <meta property="og:title" content="benchmarks - Finbest" />
+        <meta property="og:title" content="benchmarks" />
         <meta property="og:description" content="Description of the website" />
       </Helmet>
       <Navbar rootClassName="navbar-root-class-name1"></Navbar>
