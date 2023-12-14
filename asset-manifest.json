@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/dvddataset/static/css/main.0fe877fb.css",
-    "main.js": "/dvddataset/static/js/main.82ecf91d.js",
-    "static/media/dvd_dataset_simple.gif": "/dvddataset/static/media/dvd_dataset_simple.6910448e2d14daa8182a.gif",
+    "main.js": "/dvddataset/static/js/main.ec47c5bb.js",
+    "static/media/dvd_dataset.gif": "/dvddataset/static/media/dvd_dataset.b7ed005e884758baaa7d.gif",
     "static/media/qualitative_results.png": "/dvddataset/static/media/qualitative_results.4d9c47a14846cc483e98.png",
     "static/media/different_scenes_extra.png": "/dvddataset/static/media/different_scenes_extra.a07edd7accbad5a3bb5b.png",
     "static/media/ground_aerial_class_distribution_3.png": "/dvddataset/static/media/ground_aerial_class_distribution_3.99c789ed8a2bf0fcf71f.png",
     "static/media/ground_aerial_size_distribution_4.png": "/dvddataset/static/media/ground_aerial_size_distribution_4.954a645fcc119bd2ed7e.png",
     "index.html": "/dvddataset/index.html",
     "main.0fe877fb.css.map": "/dvddataset/static/css/main.0fe877fb.css.map",
-    "main.82ecf91d.js.map": "/dvddataset/static/js/main.82ecf91d.js.map"
+    "main.ec47c5bb.js.map": "/dvddataset/static/js/main.ec47c5bb.js.map"
   },
   "entrypoints": [
     "static/css/main.0fe877fb.css",
-    "static/js/main.82ecf91d.js"
+    "static/js/main.ec47c5bb.js"
   ]
 }
