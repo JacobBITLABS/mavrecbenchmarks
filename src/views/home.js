@@ -12,6 +12,7 @@ import Feature from '../components/feature'
 import Check from '../components/check'
 import Quote from '../components/quote'
 import Footer from '../components/footer'
+import ImageComponent from '../components/gif_default'
 import './home.css'
 
 import SyntaxHighLighter from 'react-syntax-highlighter'
@@ -49,12 +50,12 @@ const Home = (props) => {
               autoPlay
               className="home-video"
             ></video> */}
-            <img 
+            {/* <img 
             className="home-video"
             src={require("../ressources/images/dvd_dataset_lite.gif")} 
             alt="gif">
-            
-            </img>
+            </img> */}
+            <ImageComponent></ImageComponent>
 
             <div className="home-content">
               <h1 className="home-title">

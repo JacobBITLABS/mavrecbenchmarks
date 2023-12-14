@@ -1,0 +1,30 @@
+
+.home-video {
+    top: -3px;
+    right: 0px;
+    width: 100%;
+    height: 674px;
+    z-index: 0;
+    position: absolute;
+    align-self: flex-end;
+  }
+
+  @media(max-width: 479px) {
+    .home-video {
+      height: 455px;
+      padding-bottom: 188px;
+    }
+}
+
+@media(max-width: 991px) {
+    .home-header {
+      width: 100%;
+      height: 661px;
+    }
+}
+
+@media(max-width: 767px) {
+    .home-header {
+      height: 551px;
+    }
+}
