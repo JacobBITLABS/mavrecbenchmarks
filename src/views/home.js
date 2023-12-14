@@ -51,7 +51,7 @@ const Home = (props) => {
             ></video> */}
             <img 
             className="home-video"
-            src={require("../ressources/images/dvd_dataset.gif")} 
+            src={require("../ressources/images/dvd_dataset_lite.gif")} 
             alt="gif">
             
             </img>
