@@ -51,7 +51,7 @@ const Home = (props) => {
             ></video> */}
             <img 
             className="home-video"
-            src={require("../ressources/images/dvd_dataset_simple.gif")} 
+            src={require("../ressources/images/dvd_dataset.gif")} 
             alt="gif">
             
             </img>
@@ -73,7 +73,7 @@ const Home = (props) => {
                   /> */}
                   <span className="home-caption01">Dataset</span>
                 </a>
-                <a href="/pdfs/main_paper.pdf" target="_blank" rel="noopener noreferrer" className="home-paper">
+                <a href="/dvddataset/pdfs/main_paper.pdf" target="_blank" rel="noopener noreferrer" className="home-paper">
                   {/* <img
                     alt="pastedImage"
                     src="/pastedimage-zmzg.svg"
@@ -89,7 +89,7 @@ const Home = (props) => {
                   /> */}
                   <span className="home-caption01">Code</span>
                 </a>
-                <a href="/pdfs/dual_view_drone_dataset_can_mu-Supplementary.pdf" target="_blank" rel="noopener noreferrer" className="home-code1">
+                <a href="/dvddataset/pdfs/dual_view_drone_dataset_can_mu-Supplementary.pdf" target="_blank" rel="noopener noreferrer" className="home-code1">
                   {/* <img
                     alt="pastedImage"
                     src="/pastedimage-zmzg.svg"
