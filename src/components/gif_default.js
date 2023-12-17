@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import placeholderImage from '../ressources/images/gif_placeholder.jpg';
+import placeholderImage from '../ressources/images/rescaled_gif_placeholder.jpg';
 import actualImage from '../ressources/images/dvd_dataset_lite.gif';
 
 
